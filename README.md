@@ -4,7 +4,7 @@ A simple Question-Answering model that reads in a corpus and is able to answer c
 
 To setup the code, run the following
 ```bash
-pip3 install -r requirements.txt
-python3 setup.py
+$ pip3 install -r requirements.txt
+$ python3 setup.py
 ```
 
